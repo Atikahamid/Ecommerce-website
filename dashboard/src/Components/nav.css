@@ -1,0 +1,29 @@
+.nav-ul {
+    display: flex;
+    flex-direction: row;
+    background-color: skyblue;
+    margin: 5px;
+    padding: 5px 5px;
+  }
+  .nav-right{
+    text-align: right;
+  }
+  .logo{
+    width: 45px;
+    height: 50px;
+    float: left;
+    border-radius: 50%;
+    margin-top: 3px;
+    margin-left: 20px;
+  }
+  .nav-ul li{
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+  }
+  .nav-ul li a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }

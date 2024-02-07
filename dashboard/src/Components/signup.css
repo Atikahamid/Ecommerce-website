@@ -1,0 +1,34 @@
+.signup, .product{
+    margin-left: 30%;
+}
+.login{
+    margin-left: 30%;
+    margin-top: 100px;
+}
+.input-box{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid black;
+}
+.invalid{
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 33px;
+}
+
+.btn{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-left: 10%;
+
+}
+.btn:{
+    background-color: rgb(71, 110, 126);
+}
